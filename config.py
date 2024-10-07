@@ -2,8 +2,8 @@
 # Channel: https://t.me/itsSmartDev
 
 # Pyrogram setup
-API_ID = "123456"  # Replace this API ID with your actual API ID
-API_HASH = "XXXXXXXXXXX"  # Replace this API HASH with your actual API HASH
+API_ID = "22437715"  # Replace this API ID with your actual API ID
+API_HASH = "e516ca8cd543ccd603da05291d00da02"  # Replace this API HASH with your actual API HASH
 SESSION_STRING = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  # Replace this SESSION STRING with your actual SESSION_STRING
 BOT_TOKEN = "7538408613:AAGP1u1TycbG-Iluf5O-sKYGYab839kc-Is"  # Replace this BOT_TOKEN
 
