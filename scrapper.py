@@ -93,7 +93,7 @@ async def scr_cmd(client, message):
                 f"<b>Amount:</b> <code>{len(unique_messages)}</code>\n"
                 f"<b>Duplicates Removed:</b> <code>{duplicates_removed}</code>\n"
                 f"<b>━━━━━━━━━━━━━━━━</b>\n"
-                f"<b>Card-Scrapper By: <a href='https://t.me/itsSmartDev'>Smart Dev</a></b>\n"
+                f"<b>Card-Scrapper By: <a href='https://t.me/Xd_Cyber_world'>Tyrant Xd</a></b>\n"
             )
             await temporary_msg.delete()
             await client.send_document(message.chat.id, f, caption=caption)
